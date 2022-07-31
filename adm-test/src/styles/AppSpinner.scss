@@ -1,0 +1,24 @@
+.fp-container {
+  background: #f8f8f8ad;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  transition: 0.5s;
+  z-index: 2001 !important;
+}
+
+.fp-container .fp-spinner {
+  color: #6c757d;
+}
+
+.fp-container .fp-spinner-label {
+  color: #6c757d;
+  font-weight: bold;
+}

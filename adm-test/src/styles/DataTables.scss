@@ -1,0 +1,12 @@
+.p-datatable-tbody {
+  tr:nth-child(even) {
+    background: #F6F7FB !important;;
+    border-radius: 10px;
+  }
+}
+
+.datatable-style .planet {
+  font-weight: 700;
+  color: cornflowerblue;
+  cursor: pointer;
+}

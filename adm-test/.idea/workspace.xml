@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="434d39c1-8fda-48e4-845a-f9a2166ce564" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/moon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home/PlanetDialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AppSpinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/error.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/people.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/planet.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/ui.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/effects/people.saga.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/effects/planet.saga.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/error.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/people.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/planet.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/ui.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/planetService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/AppSpinner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/DataTables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Footer.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2CfoH1B5mINIXCpS2BU2ezRqawh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\sviluppo\ADM-test\adm-test\src\assets\images" />
+      <recent name="C:\sviluppo\ADM-test\adm-test\src\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="434d39c1-8fda-48e4-845a-f9a2166ce564" name="Default Changelist" comment="" />
+      <created>1659202908780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659202908780</updated>
+      <workItem from="1659202909952" duration="54000" />
+      <workItem from="1659209972779" duration="9567000" />
+      <workItem from="1659269095002" duration="4280000" />
+      <workItem from="1659287956137" duration="5231000" />
+      <workItem from="1659294595294" duration="1113000" />
+      <workItem from="1659295739415" duration="111000" />
+      <workItem from="1659295865103" duration="7510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
